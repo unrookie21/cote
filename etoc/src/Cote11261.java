@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class Cote11262 {
+public class Cote11261 {
     // 완전탐색 DFS
     class Solution {
 
