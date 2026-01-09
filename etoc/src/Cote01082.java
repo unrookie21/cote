@@ -48,6 +48,7 @@ public class Cote01082 {
                 return String.valueOf(availableNumbers.get(0));
             }
 
+
             int curIdx = k / factorial[n-1]; // 사용할 index
             String num = String.valueOf(availableNumbers.get(curIdx));
             availableNumbers.remove(curIdx);
