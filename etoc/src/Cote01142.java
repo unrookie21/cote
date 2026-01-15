@@ -37,6 +37,7 @@ public class Cote01142 {
             // 큐 정의
             Queue<Integer> queue = new ArrayDeque<>();
 
+
             // startNode (시작 노드) 방문 처리.
             queue.offer(startNode);
             visited[startNode] = true;
